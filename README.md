@@ -1,1 +1,1 @@
-# Credit-Risk-Using-Machine-Learning
+# Machine Learning For Credit Risk Model(PD, LGD, EAD)
