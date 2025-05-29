@@ -11,7 +11,7 @@ The expected loss (E-Loss) is the simple product of these three quantities:
 ELoss=PD⋅EAD⋅LGD
 
 Our focus here is on the Probability of Default (PD). In this context, we will examine the example of the German Credit dataset.
-## II.  Libraries
+## II.  [Libraries](https://github.com/Kevin20250000000/Machine-Learning-For-Credit-Risk-Model/blob/main/Liberies)
 
 ## III. Exploratory Data Analysis 
 Risk	bad	good
