@@ -34,11 +34,18 @@ In this dataset, females are slightly more likely to default; however, this shou
 ![image](https://github.com/user-attachments/assets/ab954ad4-1c4b-4059-8c07-83e66fbe3bab)
 
 ## V. Model Selection with Cross Validate
-model	train_score	test_score	fit_time	score_time
-0	SVC	0.825890	0.826072	0.040720	0.007020
-1	DecisionTree	1.000000	0.752596	0.007312	0.003608
-2	RandomForest	1.000000	0.825946	0.328167	0.021596
-3	GaussianNaiveBayes	0.811976	0.810961	0.004303	0.003861
+<img width="510" alt="Screenshot 2025-05-28 at 21 07 52" src="https://github.com/user-attachments/assets/22315c86-6369-4970-bb8d-a76b972d93f8" />
+
+
+Model Evaluation on the Testing Set:
+
+The Random Forest Classifier performs well on both training and testing scores.
+
+SVC and Gaussian Naive Bayes exhibit less overfitting.
+
+The Gaussian Naive Bayes Classifier has the shortest runtime.
+
+Additionally, the Random Forest Classifier provides feature importance measures, whereas SVC only returns coefficients (coef_) with a linear kernel, which can be computationally slow.
 
 ## VI.  Conclusion
 
