@@ -1,5 +1,5 @@
 # Machine Learning For Credit Risk Model(PD, LGD, EAD)
-I Intro
+## I.  Intro
 
 Approving loans without thorough scientific evaluation increases the risk of default, potentially leading to the bankruptcy of lending institutions and destabilizing the banking system. This was a key factor in the 2008 financial crisis, which severely impacted the global economy. Three components determine the extent of loss a firm incurs due to loan default:
 
