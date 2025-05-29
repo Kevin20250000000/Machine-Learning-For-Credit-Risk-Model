@@ -13,15 +13,12 @@ ELoss=PD⋅EAD⋅LGD
 Our focus here is on the Probability of Default (PD). In this context, we will examine the example of the German Credit dataset.
 ## II.  [Libraries](https://github.com/Kevin20250000000/Machine-Learning-For-Credit-Risk-Model/blob/main/Liberies)
 
-## III. [Exploratory Data Analysis](https://colab.research.google.com/drive/1gRn8KSHMgXfHEb_D9i_a1tW3SIgbeQw_#scrollTo=kq4PrIEuZDlE&line=1&uniqifier=1)
-Risk	bad	good
-Sex	 	 
-female	35.161290	64.838710
-male	27.681159	72.318841
+## III. [Exploratory Data Analysis]
+<img width="329" alt="Screenshot 2025-05-28 at 21 04 31" src="https://github.com/user-attachments/assets/f9e7ef7e-9b5a-4f80-b415-dbec17303597" />
 
+In this dataset, females are slightly more likely to default; however, this should not be generalized. This pattern is clearer in the graph below.
 
-
-## IV. Age and Sex Distributons
+## IV. Analysis
 ![image](https://github.com/user-attachments/assets/a4fcb840-1c1a-44d5-8ba3-790ee1ffb907)
 
 ![image](https://github.com/user-attachments/assets/e1c88a90-ad88-49bf-8382-01728d178076)
