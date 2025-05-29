@@ -14,10 +14,8 @@ Our focus here is on the Probability of Default (PD). In this context, we will e
 ## II.  [Libraries](https://github.com/Kevin20250000000/Machine-Learning-For-Credit-Risk-Model/blob/main/Liberies)
 
 ## III. Exploratory Data Analysis 
-Risk	bad	good
-Sex	 	 
-female	35.161290	64.838710
-male	27.681159	72.318841
+
+https://colab.research.google.com/drive/1gRn8KSHMgXfHEb_D9i_a1tW3SIgbeQw_#scrollTo=kq4PrIEuZDlE&line=1&uniqifier=1
 
 ## IV. Age and Sex Distributons
 ![image](https://github.com/user-attachments/assets/a4fcb840-1c1a-44d5-8ba3-790ee1ffb907)
